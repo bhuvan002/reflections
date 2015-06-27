@@ -14,3 +14,10 @@ stored locally?
 
 We can keep track of the diff between the last know state of the remote and and local master.
 Also, it helps in resolving conflicts when we pull (or fetch + merge)
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and
+  what would be harder?
+
+I could probably use dropbox/google docs. Keeping track of changes with the summary and
+making sure that there are no conflicts would be difficult.
