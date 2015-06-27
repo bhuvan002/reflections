@@ -1,0 +1,4 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area allows more flexibility and helps in the "one commit per logical change"
+while making the first commit in a git repository (after we init).
