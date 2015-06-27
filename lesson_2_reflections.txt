@@ -2,3 +2,15 @@ How is the staging area different from the working directory and the repository?
 
 The staging area allows more flexibility and helps in the "one commit per logical change"
 while making the first commit in a git repository (after we init).
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+We can add only those files which are connected logically to the staging area at
+a time and then commit those together.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+When we merge two branches, we combine the changes made in both the branches
+and merge one branch into another (eg Merge coins to master)
+
+We represent it in the the diagram the way we do since the final commit after merging
+has the changes done in both the branches
